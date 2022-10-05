@@ -1,0 +1,8 @@
+C:\Project\Lab3\Lab3\bin\Debug\RomanLab3.exe.config
+C:\Project\Lab3\Lab3\bin\Debug\RomanLab3.exe
+C:\Project\Lab3\Lab3\bin\Debug\RomanLab3.pdb
+C:\Project\Lab3\Lab3\obj\Debug\Lab33.Form1.resources
+C:\Project\Lab3\Lab3\obj\Debug\Lab3.csproj.GenerateResource.cache
+C:\Project\Lab3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Project\Lab3\Lab3\obj\Debug\RomanLab3.exe
+C:\Project\Lab3\Lab3\obj\Debug\RomanLab3.pdb
